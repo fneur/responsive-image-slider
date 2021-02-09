@@ -1,5 +1,6 @@
 # Responsive HTML Image Slider
-This demo site showcases different HTML image slider components for displaying
+This [demo site](https://fneur.github.io/responsive-image-slider/) showcases
+different HTML image slider components for displaying
 responsive slideshows of images of different sizes (height, width) and
 orientation (landscape, portrait). To this end, several examples leveraging
 the following components are provided:
