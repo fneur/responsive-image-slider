@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2 {
+    margin: 0;
+    letter-spacing: 2px;
+}
+
+body {
+    font: 400 15px Lato, sans-serif;
+    line-height: 1.5;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bg-grey {
+    background-color: #f6f6f6;
+}
+
+.bg-gray {
+    background-color: #777777;
+}
+
+.text-centered {
+    text-align: center;
+}
+
+.centered {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text-white {
+    color: white;
+}
+
+.container-fluid {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+ul {
+    list-style-position: inside;
+    padding-left: 10px;
+}
+
+.mycard {
+    background-color: #fff;
+    color: #777777;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    vertical-align: text-bottom;
+    /* height: 100%; */
+}
+
+.max-w-80 {
+    max-width: 80%;
+}
+
+.font-lg {
+    font-size: large;
+}
+
+/* Slick slider component */
+.fnslider {
+    max-width: 80%;
+}
+
+.fnslide {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.slick-prev::before, .slick-next::before {
+    color: #777777;
+}
